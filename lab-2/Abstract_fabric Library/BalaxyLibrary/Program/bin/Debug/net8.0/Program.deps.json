@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Program/1.0.0": {
+        "dependencies": {
+          "BalaxyLibrary": "1.0.0",
+          "IProneLibrary": "1.0.0",
+          "KiaomiLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Program.dll": {}
+        }
+      },
+      "BalaxyLibrary/1.0.0": {
+        "dependencies": {
+          "IDeviceFactory": "1.0.0"
+        },
+        "runtime": {
+          "BalaxyLibrary.dll": {}
+        }
+      },
+      "IDeviceFactory/1.0.0": {
+        "runtime": {
+          "IDeviceFactory.dll": {}
+        }
+      },
+      "IProneLibrary/1.0.0": {
+        "dependencies": {
+          "IDeviceFactory": "1.0.0"
+        },
+        "runtime": {
+          "IProneLibrary.dll": {}
+        }
+      },
+      "KiaomiLibrary/1.0.0": {
+        "dependencies": {
+          "IDeviceFactory": "1.0.0"
+        },
+        "runtime": {
+          "KiaomiLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BalaxyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDeviceFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IProneLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KiaomiLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

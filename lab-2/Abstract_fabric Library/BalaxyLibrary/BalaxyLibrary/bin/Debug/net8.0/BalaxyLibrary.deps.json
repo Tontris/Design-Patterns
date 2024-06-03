@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BalaxyLibrary/1.0.0": {
+        "dependencies": {
+          "IDeviceFactory": "1.0.0"
+        },
+        "runtime": {
+          "BalaxyLibrary.dll": {}
+        }
+      },
+      "IDeviceFactory/1.0.0": {
+        "runtime": {
+          "IDeviceFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BalaxyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDeviceFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
