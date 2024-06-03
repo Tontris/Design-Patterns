@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\managercallfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\managercallfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\isubscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\isubscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\mobileappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\mobileappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\websitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\websitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C97B4FCE-EAD7-480A-9A40-444AC62A4BE6}|Program\\Program.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97B4FCE-EAD7-480A-9A40-444AC62A4BE6}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\isubscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\isubscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\managercallfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\managercallfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\mobileappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\mobileappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\fabric_method library\\websitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A164C-C5AE-4D16-A956-45BA6A5683B1}|Fabric_method Library\\Fabric_method_Library.csproj|solutionrelative:fabric_method library\\websitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97B4FCE-EAD7-480A-9A40-444AC62A4BE6}|Program\\Program.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0437\u0432\u0456\u0442\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\design-patterns\\lab-2\\fabric_method library\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97B4FCE-EAD7-480A-9A40-444AC62A4BE6}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISubscription.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ISubscription.cs",
-              "RelativeDocumentMoniker": "Fabric_method Library\\ISubscription.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ISubscription.cs",
-              "RelativeToolTip": "Fabric_method Library\\ISubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "MobileAppFactory.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\MobileAppFactory.cs",
+              "RelativeDocumentMoniker": "Fabric_method Library\\MobileAppFactory.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\MobileAppFactory.cs",
+              "RelativeToolTip": "Fabric_method Library\\MobileAppFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:51:40.433Z",
+              "WhenOpened": "2024-06-03T12:49:33.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ManagerCallFactory.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ManagerCallFactory.cs",
               "RelativeDocumentMoniker": "Fabric_method Library\\ManagerCallFactory.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ManagerCallFactory.cs",
               "RelativeToolTip": "Fabric_method Library\\ManagerCallFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:50:20.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ISubscriptionFactory.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ISubscriptionFactory.cs",
               "RelativeDocumentMoniker": "Fabric_method Library\\ISubscriptionFactory.cs",
@@ -90,14 +90,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MobileAppFactory.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\MobileAppFactory.cs",
-              "RelativeDocumentMoniker": "Fabric_method Library\\MobileAppFactory.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\MobileAppFactory.cs",
-              "RelativeToolTip": "Fabric_method Library\\MobileAppFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "ISubscription.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ISubscription.cs",
+              "RelativeDocumentMoniker": "Fabric_method Library\\ISubscription.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\ISubscription.cs",
+              "RelativeToolTip": "Fabric_method Library\\ISubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:49:33.262Z",
+              "WhenOpened": "2024-06-03T12:51:40.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "Fabric_method Library\\EducationalSubscription.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\EducationalSubscription.cs",
+              "RelativeToolTip": "Fabric_method Library\\EducationalSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:51:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "Fabric_method Library\\DomesticSubscription.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\DomesticSubscription.cs",
+              "RelativeToolTip": "Fabric_method Library\\DomesticSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:51:38.175Z",
               "EditorCaption": ""
             },
             {
@@ -108,61 +134,35 @@
               "RelativeDocumentMoniker": "Fabric_method Library\\PremiumSubscription.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\PremiumSubscription.cs",
               "RelativeToolTip": "Fabric_method Library\\PremiumSubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:51:44.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "WebSiteFactory.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\WebSiteFactory.cs",
               "RelativeDocumentMoniker": "Fabric_method Library\\WebSiteFactory.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\WebSiteFactory.cs",
               "RelativeToolTip": "Fabric_method Library\\WebSiteFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:49:56.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program\\Program.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Program\\Program.cs",
               "RelativeToolTip": "Program\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T11:38:34.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EducationalSubscription.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\EducationalSubscription.cs",
-              "RelativeDocumentMoniker": "Fabric_method Library\\EducationalSubscription.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\EducationalSubscription.cs",
-              "RelativeToolTip": "Fabric_method Library\\EducationalSubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:51:39.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DomesticSubscription.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\DomesticSubscription.cs",
-              "RelativeDocumentMoniker": "Fabric_method Library\\DomesticSubscription.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u0417\u0432\u0456\u0442\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\Design-Patterns\\lab-2\\Fabric_method Library\\Fabric_method Library\\DomesticSubscription.cs",
-              "RelativeToolTip": "Fabric_method Library\\DomesticSubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:51:38.175Z",
               "EditorCaption": ""
             }
           ]
