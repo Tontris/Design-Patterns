@@ -1,0 +1,12 @@
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.AssemblyInfoInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.AssemblyInfo.cs
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.csproj.CoreCompileInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.sourcelink.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\bin\Debug\net8.0\Fabric_method_Library.deps.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\bin\Debug\net8.0\Fabric_method_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\bin\Debug\net8.0\Fabric_method_Library.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\refint\Fabric_method_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\Fabric_method_Library.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-2\Fabric_method Library\Fabric_method Library\obj\Debug\net8.0\ref\Fabric_method_Library.dll
