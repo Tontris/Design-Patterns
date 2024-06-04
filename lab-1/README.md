@@ -10,11 +10,11 @@
 
 ### Open-Closed Principle (OCP)
 
-Клас `Animal` відкритий для розширення (ми можемо створити нові класи, які успадковують `Animal`), але закритий для модифікації. Дивіться файл [`Animal.cs`](./SOLID, Composition Over Inheritance Library/Animal.cs)
+Клас `Animal` відкритий для розширення (ми можемо створити нові класи, які успадковують `Animal`), але закритий для модифікації. Дивіться файл [`Animal.cs`](SOLID%2C%20Composition%20Over%20Inheritance%20Library/Animal.cs)
 
 ### Liskov Substitution Principle (LSP)
 
-Класи `Lion` та `Elephant` можна використовувати замість базового класу `Animal` без зміни поведінки програми. Дивіться файли [`Lion.cs`](./SOLID, Composition Over Inheritance Library/Lion.cs) та [`Elephant.cs`](./SOLID, Composition Over Inheritance Library/Elephant.cs).
+Класи `Lion` та `Elephant` можна використовувати замість базового класу `Animal` без зміни поведінки програми. Дивіться файли [`Lion.cs`](SOLID%2C%20Composition%20Over%20Inheritance%20Library/Lion.cs) та [`Elephant.cs`](SOLID%2C%20Composition%20Over%20Inheritance%20Library/Elephant.cs).
 
 ### Interface Segregation Principle (ISP)
 
@@ -22,7 +22,7 @@
 
 ### Dependency Inversion Principle (DIP)
 
-Клас `Zoo` залежить від абстракцій (`Animal`, `Enclosure`, `ZooWorker`), а не від конкретних класів. Дивіться файл [`Zoo.cs`](./SOLID, Composition Over Inheritance Library/Zoo.cs).
+Клас `Zoo` залежить від абстракцій (`Animal`, `Enclosure`, `ZooWorker`), а не від конкретних класів. Дивіться файл [`Zoo.cs`](SOLID%2C%20Composition%20Over%20Inheritance%20Library/Zoo.cs).
 
 ### DRY (Don’t Repeat Yourself)
 
