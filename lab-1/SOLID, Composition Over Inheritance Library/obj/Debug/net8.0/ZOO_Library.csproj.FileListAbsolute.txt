@@ -1,0 +1,12 @@
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\bin\Debug\net8.0\ZOO_Library.deps.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\bin\Debug\net8.0\ZOO_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\bin\Debug\net8.0\ZOO_Library.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.AssemblyInfoInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.AssemblyInfo.cs
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.csproj.CoreCompileInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.sourcelink.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\refint\ZOO_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ZOO_Library.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\SOLID, Composition Over Inheritance Library\obj\Debug\net8.0\ref\ZOO_Library.dll

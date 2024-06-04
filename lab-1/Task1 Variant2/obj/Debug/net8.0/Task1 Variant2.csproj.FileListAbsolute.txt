@@ -1,0 +1,19 @@
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.AssemblyInfoInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.AssemblyInfo.cs
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.csproj.CoreCompileInputs.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.sourcelink.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\Task1 Variant2.exe
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\Task1 Variant2.deps.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\Task1 Variant2.runtimeconfig.json
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\Task1 Variant2.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\Task1 Variant2.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\refint\Task1 Variant2.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.genruntimeconfig.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\ref\Task1 Variant2.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Variant2.csproj.AssemblyReference.cache
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\ZOO_Library.dll
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\bin\Debug\net8.0\ZOO_Library.pdb
+D:\Університет\Звіти\Конструювання програмного забезпечення\Design-Patterns\lab-1\Task1 Variant2\obj\Debug\net8.0\Task1 Va.44325BAC.Up2Date
