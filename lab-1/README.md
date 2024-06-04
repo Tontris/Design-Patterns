@@ -6,7 +6,7 @@
 
 ### Single Responsibility Principle (SRP)
 
-Клас `Animal` має одну відповідальність: він визначає загальні властивості тварини. Дивіться файл [`Animal.cs`](./SOLID, Composition Over Inheritance Library/Animal.cs)
+Клас `Animal` має одну відповідальність: він визначає загальні властивості тварини. Дивіться файл [`Animal.cs`](.SOLID%2C%20Composition%20Over%20Inheritance%20Library/Animal)
 
 ### Open-Closed Principle (OCP)
 
